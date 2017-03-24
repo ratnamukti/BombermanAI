@@ -1,0 +1,11 @@
+0.X.XXBXX.X.1
+.#X#.#X#.#X#.
+XX.PX.X.XB.XX
+B#B#.#P#.#P#B
+X.X.XBPBX.X.X
+.#P#P#B#P#P#.
+X.X.XBPBX.X.X
+B#P#.#P#.#B#B
+XX.BX.X.XP.XX
+.#X#.#X#.#X#.
+2.X.XXBXX.X.3
